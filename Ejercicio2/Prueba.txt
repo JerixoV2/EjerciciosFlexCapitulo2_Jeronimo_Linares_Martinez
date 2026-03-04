@@ -1,0 +1,6 @@
+House house HOUSE
+Car car CAR
+Tree tree TREE tree
+
+House and car appear again.
+TREE appears again too.

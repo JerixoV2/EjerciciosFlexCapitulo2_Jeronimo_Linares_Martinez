@@ -11,11 +11,21 @@ contiene:
 
 ------------------------------------------------------------------------
 
-# 📁 Estructura del Proyecto
+#  Estructura del Proyecto
 
-EjerciciosFlex/ │ ├── Ejercicio1/ │ ├── Ejercicio1.l │ └── Prueba.txt │
-├── Ejercicio2/ │ ├── Ejercicio2.l │ └── Prueba.txt │ └── Ejercicio3/
-├── Ejercicio3.l └── Prueba.txt
+EjerciciosFlex/
+│
+├── Ejercicio1/
+│   ├── Ejercicio1.l
+│   └── Prueba.txt
+│
+├── Ejercicio2/
+│   ├── Ejercicio2.l
+│   └── Prueba.txt
+│
+└── Ejercicio3/
+    ├── Ejercicio3.l
+    └── Prueba.txt
 
 ------------------------------------------------------------------------
 
